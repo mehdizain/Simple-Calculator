@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 258px;
+    height: 324px;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+button {
+    color: whitesmoke;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    font-size: x-large;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    height: 253px;
+    background-color: rgba(128, 128, 128, 0.966);
+}
+
+#equalsSign {
+    background-color: orange;
+    color: black
+}
